@@ -2,59 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4870284f-ccb9-4961-b18b-3065933cd140" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/IQ_test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IQ_test/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IQ_test/app/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IQ_test/app/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IQ_test/app/proguard-rules.pro" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IQ_test/app/src/androidTest/java/com/example/iq_test/ExampleInstrumentedTest.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IQ_test/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IQ_test/app/src/main/java/com/example/iq_test/MainActivity.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IQ_test/app/src/main/java/com/example/iq_test/QuestionActivity.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IQ_test/app/src/main/java/com/example/iq_test/QuestionData.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IQ_test/app/src/main/java/com/example/iq_test/result.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IQ_test/app/src/main/java/com/example/iq_test/setData.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IQ_test/app/src/main/res/drawable-v24/correct.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IQ_test/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IQ_test/app/src/main/res/drawable-v24/p1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IQ_test/app/src/main/res/drawable-v24/p2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IQ_test/app/src/main/res/drawable-v24/p3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IQ_test/app/src/main/res/drawable-v24/p4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IQ_test/app/src/main/res/drawable-v24/p5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IQ_test/app/src/main/res/drawable-v24/p6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IQ_test/app/src/main/res/drawable-v24/selected_question_option.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IQ_test/app/src/main/res/drawable-v24/wrong.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IQ_test/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IQ_test/app/src/main/res/drawable/question_option.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IQ_test/app/src/main/res/layout/activity_main.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IQ_test/app/src/main/res/layout/activity_question.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IQ_test/app/src/main/res/layout/activity_result.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IQ_test/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IQ_test/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IQ_test/app/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IQ_test/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IQ_test/app/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IQ_test/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IQ_test/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IQ_test/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IQ_test/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IQ_test/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IQ_test/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IQ_test/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IQ_test/app/src/main/res/values-night/themes.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IQ_test/app/src/main/res/values/colors.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IQ_test/app/src/main/res/values/strings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IQ_test/app/src/main/res/values/themes.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IQ_test/app/src/test/java/com/example/iq_test/ExampleUnitTest.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IQ_test/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IQ_test/gradle.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IQ_test/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IQ_test/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IQ_test/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IQ_test/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IQ_test/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,16 +37,40 @@
       <option name="presentableId" value="Default" />
       <updated>1639807086302</updated>
     </task>
+    <task id="LOCAL-00001" summary="Hello World">
+      <created>1639809955676</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1639809955676</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Hello World" />
+    <option name="LAST_COMMIT_MESSAGE" value="Hello World" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="568" y="230" key="#Notifications" timestamp="1639810866045">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="568" y="230" key="#Notifications/0.0.1366.728@0.0.1366.728" timestamp="1639810866045" />
     <state x="137" y="22" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1639807764634">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="137" y="22" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1639807764634" />
+    <state x="310" y="0" key="CommitChangelistDialog2" timestamp="1639809952587">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="310" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1639809952587" />
     <state x="463" y="122" key="FileChooserDialogImpl" timestamp="1639807173006">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="122" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1639807173006" />
+    <state x="275" y="100" key="Vcs.Push.Dialog.v2" timestamp="1639810763817">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="100" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1639810763817" />
   </component>
 </project>
